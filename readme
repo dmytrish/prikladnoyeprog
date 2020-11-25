@@ -11,3 +11,4 @@ int main()
     printf("Posdravlyayem! Srednee arifmeticheskoye — %f\n", c);
     return 0;
 }
+
