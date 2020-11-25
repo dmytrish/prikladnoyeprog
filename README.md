@@ -1,2 +1,0 @@
-# prikladnoyeprog
-Prosto prikladnoye programmirovaniye
